@@ -1,0 +1,42 @@
+/*Navigation table*/
+.navigation td{
+    border-bottom: 1px solid red;
+}
+
+.navigation{
+    background-color: lightblue;
+}
+body{
+    background-color: gainsboro;
+    margin: auto;
+    width: 50%;
+}
+
+p{
+    font-family: Calibri;
+}
+/*Project: List*/
+#projectList{
+    padding: 5%;
+}
+
+#projectList:hover{
+    background-color: azure;
+}
+
+#technicalTable{
+    border: 1px mediumblue;
+}
+
+h2{
+    font-family: "Felix Titling";
+}
+
+h1{
+    font-family: "Microsoft New Tai Lue";
+}
+
+/*Body*/
+.main{
+    background-color: whitesmoke;
+}
